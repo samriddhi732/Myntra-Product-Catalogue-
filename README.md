@@ -1,4 +1,4 @@
-# 🛍️ Myntra Product Catalog Intelligence Dashboard
+# 🛍️ Myntra Product Catalogue
 
 ## 📌 Project Overview
 An end-to-end data analytics project analyzing 527,000+ 
