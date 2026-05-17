@@ -5,9 +5,6 @@ An end-to-end data analytics project analyzing 527,000+
 Myntra fashion product listings to uncover pricing strategy, 
 discount patterns, category distribution, and gender assortment insights.
 
-> ⚠️ This is a Product Catalog dataset — not a sales/transactions 
-> dataset. Metrics represent listed products, not actual orders.
-
 ---
 
 ## 🔧 Tech Stack
